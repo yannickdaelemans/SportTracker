@@ -9,6 +9,7 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/joda-time-2.4/joda-time-2.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
